@@ -97,7 +97,7 @@ class BoardTestSuite {
                 .average().getAsDouble();
 
         //Then
-        assertEquals(10, averageWorkTime, .01);
+        assertEquals(10, averageWorkTime);
 
     }
 
