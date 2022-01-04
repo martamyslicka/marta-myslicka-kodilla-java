@@ -3,6 +3,7 @@ package com.kodilla.exception.test;
 public class FlightSearcherRunner {
     public static void main(String args[]) {
 
+
         Flight flight = new Flight("Warsaw", "Krakow");
         Flight flight2 = new Flight("Warsaw", "Maroko");
 
