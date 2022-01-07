@@ -1,6 +1,4 @@
-package com.kodilla.good.patterns.challenges;
-
-import java.time.LocalDateTime;
+package com.kodilla.good.patterns.challenges.orderRequest;
 
 public class OrderApplication {
     public static void main(String[] args) {
