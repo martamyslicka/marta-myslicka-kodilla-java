@@ -17,13 +17,11 @@ public class CalculatorTestSuite {
         //given
         double a = 8;
         double b = 4;
-
         //when
         double resAdd = calculator.add(a, b);
         double resSub = calculator.sub(a, b);
         double resMul = calculator.mul(a, b);
         double resDiv = calculator.div(a, b);
-
         //then
         assertEquals(12, resAdd);
         assertEquals(4, resSub);
