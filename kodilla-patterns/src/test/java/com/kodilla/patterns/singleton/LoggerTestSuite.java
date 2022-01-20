@@ -1,6 +1,5 @@
 package com.kodilla.patterns.singleton;
 
-import com.kodilla.patterns.Logger;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
@@ -24,4 +23,16 @@ public class LoggerTestSuite {
         assertEquals("4 actionable tasks: 3 executed, 1 up-to-date ", result);
 
     }
+
+    @Test
+    void testIsLast() {
+        //given
+        //when
+        //then
+        logger.getLastLog();
+        logger.log("Log 2");
+        logger.getLastLog();
+
+    }
+
 }
