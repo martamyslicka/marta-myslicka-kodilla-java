@@ -1,8 +1,5 @@
 package com.kodilla.patterns.builder.bigmac;
 
-import com.kodilla.patterns.builder.checkers.Board;
-import com.kodilla.patterns.builder.pizza.Pizza;
-
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,6 +1,5 @@
 package com.kodilla.patterns.builder.bigmac;
 
-import com.kodilla.patterns.builder.pizza.Pizza;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
