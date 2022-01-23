@@ -1,6 +1,6 @@
-package com.kodilla.good.patterns.strategy.social;
+package com.kodilla.patterns.strategy.social;
 
-import com.kodilla.good.patterns.strategy.social.publisher.FacebookPublisher;
+import com.kodilla.patterns.strategy.social.publisher.FacebookPublisher;
 
 public class Millenials extends User {
 

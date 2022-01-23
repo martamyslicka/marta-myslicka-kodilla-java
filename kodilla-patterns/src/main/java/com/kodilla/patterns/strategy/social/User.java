@@ -1,4 +1,4 @@
-package com.kodilla.good.patterns.strategy.social;
+package com.kodilla.patterns.strategy.social;
 
 public class User {
     private String name;

@@ -1,10 +1,10 @@
-package com.kodilla.good.patterns.social;
+package com.kodilla.patterns.social;
 
-import com.kodilla.good.patterns.strategy.social.Millenials;
-import com.kodilla.good.patterns.strategy.social.User;
-import com.kodilla.good.patterns.strategy.social.YGeneration;
-import com.kodilla.good.patterns.strategy.social.ZGeneration;
-import com.kodilla.good.patterns.strategy.social.publisher.FacebookPublisher;
+import com.kodilla.patterns.strategy.social.Millenials;
+import com.kodilla.patterns.strategy.social.User;
+import com.kodilla.patterns.strategy.social.YGeneration;
+import com.kodilla.patterns.strategy.social.ZGeneration;
+import com.kodilla.patterns.strategy.social.publisher.FacebookPublisher;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

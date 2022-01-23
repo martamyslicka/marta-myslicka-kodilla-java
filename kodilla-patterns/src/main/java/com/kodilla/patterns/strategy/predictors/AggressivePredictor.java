@@ -1,6 +1,6 @@
-package com.kodilla.good.patterns.strategy.predictors;
+package com.kodilla.patterns.strategy.predictors;
 
-import com.kodilla.good.patterns.strategy.BuyPredictor;
+import com.kodilla.patterns.strategy.BuyPredictor;
 
 public class AggressivePredictor implements BuyPredictor {
 

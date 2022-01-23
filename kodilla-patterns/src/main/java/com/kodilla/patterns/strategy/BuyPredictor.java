@@ -1,4 +1,4 @@
-package com.kodilla.good.patterns.strategy;
+package com.kodilla.patterns.strategy;
 
 public interface BuyPredictor {
 
