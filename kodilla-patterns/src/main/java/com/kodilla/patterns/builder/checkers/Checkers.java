@@ -46,7 +46,7 @@ public class Checkers {
                 throw new IllegalStateException("x and y should be in range between " +          // [20]
                         Board.MIN_INDEX + " and " + Board.MAX_INDEX);                                 // [21]
             }                                                                                   // [22]
-            if (board.getFigure(x, y) == null) {                                                // [23]
+                if (board.getFigure(x, y) == null) {                                                // [23]
                 board.setFigure(FigureFactory.makeFigure(figureType, figureColor), x, y);        // [24]
             } else {                                                                            // [25]
                 throw new IllegalStateException("Position " + x + "," + y + " is already occupied");// [26]
