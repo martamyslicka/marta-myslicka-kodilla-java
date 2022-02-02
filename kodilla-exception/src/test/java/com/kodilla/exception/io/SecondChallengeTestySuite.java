@@ -2,7 +2,9 @@ package com.kodilla.exception.io;
 
 import com.kodilla.exception.test.SecondChallenge;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+
+import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class SecondChallengeTestySuite {
     @Test

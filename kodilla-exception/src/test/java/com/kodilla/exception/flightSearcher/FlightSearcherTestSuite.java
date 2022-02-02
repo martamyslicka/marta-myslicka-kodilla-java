@@ -2,10 +2,10 @@ package com.kodilla.exception.flightSearcher;
 
 import com.kodilla.exception.test.Flight;
 import com.kodilla.exception.test.FlightSearcher;
-import com.kodilla.exception.test.FlightSearcherRunner;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
-import com.kodilla.exception.*;
+
+import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class FlightSearcherTestSuite {
 

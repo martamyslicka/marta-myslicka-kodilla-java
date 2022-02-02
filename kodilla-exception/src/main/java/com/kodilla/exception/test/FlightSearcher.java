@@ -1,7 +1,7 @@
 package com.kodilla.exception.test;
 
-import java.lang.*;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class FlightSearcher {
 

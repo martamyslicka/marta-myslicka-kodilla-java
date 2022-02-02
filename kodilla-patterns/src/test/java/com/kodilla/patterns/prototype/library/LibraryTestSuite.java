@@ -1,13 +1,8 @@
 package com.kodilla.patterns.prototype.library;
 
-import com.kodilla.patterns.prototype.Board;
-import com.kodilla.patterns.prototype.Task;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.util.HashSet;
-import java.util.Set;
 import java.util.stream.IntStream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

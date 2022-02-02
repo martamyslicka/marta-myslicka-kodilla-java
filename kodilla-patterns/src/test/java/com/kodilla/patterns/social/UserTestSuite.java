@@ -6,7 +6,8 @@ import com.kodilla.patterns.strategy.social.YGeneration;
 import com.kodilla.patterns.strategy.social.ZGeneration;
 import com.kodilla.patterns.strategy.social.publisher.FacebookPublisher;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class UserTestSuite {
 

@@ -1,6 +1,4 @@
 package com.kodilla.testing.forum.statistic;
-import java.util.ArrayList;
-import java.util.List;
 
 public class ForumStatistic {
 
